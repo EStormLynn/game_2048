@@ -2,7 +2,7 @@
 ## 涉及内容
 * 屏幕绘制库`ncurese`的使用
 
-ncurese库安装
+* ncurese库安装
 `$ sudo apt-get install libncurses5-dev`
 
 ## 获取代码
